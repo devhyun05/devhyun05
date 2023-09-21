@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, Express.js, Node.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [codniverse.com](codniverse.com)
+- 👨‍💻 All of my projects are found at: codniverse.com
 
 - 📫 How to reach me **devhyun05@gmail.com**
 
