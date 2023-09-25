@@ -1,6 +1,6 @@
 [![MasterHead](https://www.creative2.com/wp-content/uploads/2021/10/Career-Page-Banner_Full-Stack-Developer.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hyun Seong Lee</h1>
-<h3 align="center">A passionate Full Stack Developer, Backend Developer from South Korea</h3>
+<h3 align="center">Full Stack Developer, Backend Developer from South Korea</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhyun05&label=Profile%20views&color=0e75b6&style=flat" alt="devhyun05" /> </p>
