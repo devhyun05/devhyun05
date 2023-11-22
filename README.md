@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Jenkins-007396?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
